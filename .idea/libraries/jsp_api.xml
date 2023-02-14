@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
