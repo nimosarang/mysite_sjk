@@ -6,6 +6,8 @@
       <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/servlet-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/taglibs-standard-impl-1.2.5.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.85/lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-fileupload/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-fileupload/commons-io-2.11.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
